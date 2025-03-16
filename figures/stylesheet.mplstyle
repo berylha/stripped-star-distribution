@@ -1,0 +1,20 @@
+# to apply stylesheet, use
+# plt.style.use('stylesheet.mpltstyle')
+
+# TEXT
+font.size : 14
+font.family : serif
+
+# AXES
+axes.labelsize : 16
+
+# LEGEND
+legend.frameon : False
+
+# TICKS
+xtick.direction : in
+ytick.direction : in
+
+# FIGURE OUTPUT 
+figure.dpi : 300
+savefig.dpi : 600
