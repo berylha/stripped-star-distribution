@@ -1,7 +1,7 @@
 # stripped-star-distribution
 Code and figures for "The Mass Distribution of Stars Stripped in Binaries: The Effect of Metallicity" ([Hovis-Afflerbach et al. 2025](https://ui.adsabs.harvard.edu/abs/2024arXiv241205356H/abstract)).
 
-![Figure 6 from Hovis-Afflerbach et al (2025). Contour plot depicting the number of hot stripped stars we expect for various metallicities above various masses.](figures/contour.png)
+![Figure 4 from Hovis-Afflerbach et al (2025). The present-day mass function for hot stars stripped in binaries.](figures/Mdist_square.png)
 
 ## Contents of this repository
 - `data`
